@@ -34,6 +34,15 @@
             width="40"
             style="object-fit: contain"
         /></a>
+   <a href="https://www.linkedin.com/in/sristy-verma/" target="blank"
+          ><img
+            align="center"
+            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+            alt="sristyverma"
+            height="40"
+            width="40"
+            style="object-fit: contain"
+        /></a>
       </p>
       <h3 align="left">Languages and Tools:</h3>
       <p align="left">
